@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Business dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "expected_revenue",
+        "value": "[5000000000]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Business dashboard_JSObject1",
+  "deleted": false,
+  "gitSyncId": "63a5f1d04b855d55edc8beee_63a5f1d14b855d55edc8bf7e"
+}
